@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="f43f927b-55c8-41a5-8d13-a088c5cde28a" SharePointProductVersion="15.0">
+  <Assemblies>
+    <Assembly Location="SharePointHN.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="Layouts\SharePointHN\permission.aspx" />
+    <TemplateFile Location="Layouts\SharePointHN\Services.aspx" />
+  </TemplateFiles>
+</Solution>

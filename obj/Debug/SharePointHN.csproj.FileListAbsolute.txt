@@ -1,0 +1,5 @@
+c:\users\spadmin\documents\visual studio 2013\Projects\SharePointHN\SharePointHN\obj\Debug\SharePointHN.csprojResolveAssemblyReference.cache
+c:\users\spadmin\documents\visual studio 2013\Projects\SharePointHN\SharePointHN\bin\Debug\SharePointHN.dll
+c:\users\spadmin\documents\visual studio 2013\Projects\SharePointHN\SharePointHN\bin\Debug\SharePointHN.pdb
+c:\users\spadmin\documents\visual studio 2013\Projects\SharePointHN\SharePointHN\obj\Debug\SharePointHN.dll
+c:\users\spadmin\documents\visual studio 2013\Projects\SharePointHN\SharePointHN\obj\Debug\SharePointHN.pdb
